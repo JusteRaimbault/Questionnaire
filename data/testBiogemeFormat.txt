@@ -1,0 +1,3 @@
+age;age;NULL
+localisation;localisation;NULL
+is_student;csp;1

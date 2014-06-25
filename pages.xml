@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<pages>
+
+    <!--<page>
+        <name>acceuil</name>
+        <title>Questionnaire</title>
+        <titlemenu>Accueil</titlemenu>
+        <authorized>ALL</authorized>
+    </page>-->
+
+    <page>
+        <name>sondage_public</name>
+        <title>Questionnaire - Sondage</title>
+        <titlemenu>Sondage Public</titlemenu>
+        <authorized>ALL</authorized>
+    </page>
+    
+    <page>
+        <name>sondage</name>
+        <title>Questionnaire - Sondage</title>
+        <titlemenu>Sondage</titlemenu>
+        <authorized>USERS</authorized>
+    </page>
+
+    <!--<page>
+        <name>moncompte</name>
+        <title>Questionnaire - Gestion du compte</title>
+        <titlemenu>Mon compte/S'inscrire</titlemenu>
+        <authorized>ALL</authorized>
+    </page>-->
+
+
+
+    <page>
+        <name>admin</name>
+        <title>Questionnaire - root</title>
+        <titlemenu>Webmaster</titlemenu>
+        <authorized>ROOT</authorized>
+    </page>
+
+</pages>
